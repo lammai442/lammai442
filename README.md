@@ -14,9 +14,9 @@ Tidigare har jag arbetat med media och film, men har nu bytt bana till webbutvec
 
 ## GitHub Stats
 
-![Lam Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=**DITT_ANVÄNDARNAMN**&show_icons=true&theme=radical)
+![Lam Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=**lammai442**&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**DITT_ANVÄNDARNAMN**&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lammai442&layout=compact&theme=tokyonight)
 
 ---
 
