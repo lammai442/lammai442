@@ -11,15 +11,3 @@ Tidigare har jag arbetat med media och film, men har nu bytt bana till webbutvec
 **Other:** Git, GitHub, Netlify, Firebase, Insomnia
 
 ---
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lammai442&layout=compact&theme=tokyonight)
-
----
-
-## Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lam-mai)  
-📧 lam.mai@email.com
-
----
