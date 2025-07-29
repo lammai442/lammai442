@@ -8,6 +8,6 @@ Tidigare har jag arbetat med media och film, men har nu bytt bana till webbutvec
 **Frontend:** HTML, CSS, JavaScript, React, Vite  
 **Backend:** Node.js, MongoDB  
 **Design:** Figma  
-**Other:** Git, GitHub, Netlify, Firebase, Insomnia
+**Other:** Git, Adobe Premiere, Adobe Photoshop, Lightroom, Netlify, Firebase, Insomnia
 
 ---
