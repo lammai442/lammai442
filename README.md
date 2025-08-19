@@ -1,6 +1,5 @@
 ## About me
-Jag är en webbutvecklare med ett stort intresse för teknik, kodning och UI/UX-design.  
-Tidigare har jag arbetat med media och film, men har nu bytt bana till webbutveckling!
+I am a web developer with a strong interest in technology, coding, and creating digital solutions.
 
 ---
 
@@ -8,6 +7,6 @@ Tidigare har jag arbetat med media och film, men har nu bytt bana till webbutvec
 **Frontend:** HTML, CSS, JavaScript, React, Vite  
 **Backend:** Node.js, MongoDB  
 **Design:** Figma  
-**Other:** Git, Adobe Premiere, Adobe Photoshop, Lightroom, Netlify, Firebase, Insomnia
+**Other:** Git, Adobe Premiere, Adobe Photoshop, Lightroom, Netlify, Insomnia
 
 ---
