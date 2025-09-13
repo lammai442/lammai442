@@ -4,9 +4,9 @@ I am a web developer with a strong interest in technology, coding, and creating 
 ---
 
 ## Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React, Vite  
-**Backend (Cloud & Database):** Node.js, MongoDB, AWS (Lambda, API Gateway), DynamoDB
+**Frontend:** React, HTML, CSS, JavaScript, Vite, Accessability   
+**Backend (Cloud & Database):** Node.js, MongoDB, AWS (Lambda, API Gateway), DynamoDB, Serverless  
 **Design:** Figma  
-**Other:** Git, Adobe Premiere, Adobe Photoshop, Lightroom, Netlify, Insomnia
+**Other:** Git, Adobe Premiere, Adobe Photoshop, Lightroom, Netlify, Insomnia, Vercel
 
 ---
