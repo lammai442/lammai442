@@ -6,7 +6,7 @@ Currently, I am focusing on frontend development with experience in HTML, CSS, J
 ---
 
 ## Tech Stack
-**Frontend:** React, HTML, CSS, JavaScript, Vite, Accessability   
+**Frontend:** React, Typescript, JavaScript, HTML, CSS, Vite, Accessability   
 **Backend (Cloud & Database):** Node.js, MongoDB, AWS (Lambda, API Gateway), DynamoDB, Serverless  
 **Design:** Figma  
 **Other:** Git, Adobe Premiere, Adobe Photoshop, Lightroom, Netlify, Insomnia, Vercel
